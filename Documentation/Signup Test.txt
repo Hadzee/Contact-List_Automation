@@ -1,0 +1,16 @@
+Title: Signup Test for Contact List App
+
+Description: 
+As a user, I should be able to successfully signup on the Contact List App, and log in with that user. This test is referring to test_signup.py
+
+Test Steps:
+
+GIVEN that I navigate to the Contact List App Login page
+WHEN I click on the "Sign up" button
+THEN I fill in the info (first name, last name, email, password)
+THEN I click on the "Submit" button
+AND I can see that I'm redirected to the Login page
+WHEN I enter the email and password to log in with the newly created user
+THEN I can see that I successfully logged in with the new user
+THEN I click on the "Logout" button
+AND the Contact List App Login page is displayed

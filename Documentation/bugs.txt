@@ -1,0 +1,7 @@
+Found by automation: (not consistent) When adding a new contact multiple times, it doesn't navigate to the contact list page after clicking on submit. It stays on the add contact page.
+
+One more bug: While trying to sign up a new user, after entering first and last name, they sometimes don't get saved. It's not consistent, but still a bug.
+
+Another bug found by API automation: Even though we are creating a new contact with the same phone number format, example: "'(800) 697-5856'", the test fails sometimes, "message":"Phone number is invalid".
+This is not consistent, though.
+

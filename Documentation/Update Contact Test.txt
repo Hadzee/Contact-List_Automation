@@ -1,0 +1,26 @@
+Title: Update Contact Test for Contact List App
+
+Description: 
+As a user, I should be able to successfully update a contact, and verify that it was updated properly in the table. This test is referring to test_update_contact.py
+
+Test Steps:
+
+GIVEN that I log in to the Contact List App
+WHEN I click on the "Add New Contact" button
+THEN I fill in the info (first and last names, date of birth, email, phone number, address, city, state, postal code, country)
+THEN I click on the "Submit" button
+AND I can see that I'm redirected to the Contact List page
+AND I verify that the contact was added successfully
+WHEN I select the added contact from the table
+THEN I can see the "Contact Details" page with all of the info provided from the contact
+WHEN I click on the "Edit Contact" button
+THEN I can see that I'm naigated to the Edit Contact page
+AND I change the first and last names
+AND I click on the "Submit" button
+THEN I can see that I'm redirected to the "Contact Details" page
+AND I verify that the first and last names were updated
+WHEN I click on the "Return to Contact List" button
+THEN I can see that I'm redirected to the Contact List page
+AND I confirm in the table that the first and last names were updated properly
+THEN I click on the "Logout" button
+AND the Contact List App Login page is displayed
