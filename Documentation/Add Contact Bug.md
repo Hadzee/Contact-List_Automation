@@ -20,10 +20,6 @@ The user stays on the "Add Contact" page.
 
 ## Attachments
 
-### Screenshot
-
-![Screenshot showing failure](./path_to_screenshot/screenshot.png)
-
 ### Video of the Test Run
 
 [Watch the test video](./test_evidence_bugs/AddContactTestEvidence-Bug.mp4)

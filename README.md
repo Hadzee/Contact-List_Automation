@@ -1,3 +1,4 @@
+
 # Book Cart API Automation
 
 This repository contains automation tests for the Contact List Application.
@@ -8,7 +9,7 @@ API Documentation: https://documenter.getpostman.com/view/4012288/TzK2bEa8#9b089
 
 ## Documentation
 
-You can find the full documentation (Test Cases) for this project here.
+You can find the full documentation (Test Cases) for this project [here](https://github.com/Hadzee/Contact-List_Automation/tree/master/Documentation).
 
 ## Getting Started
 
