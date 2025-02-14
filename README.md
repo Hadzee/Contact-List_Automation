@@ -1,5 +1,5 @@
 
-# Book Cart API Automation
+# Contact List Automation
 
 This repository contains automation tests for the Contact List Application.
 
