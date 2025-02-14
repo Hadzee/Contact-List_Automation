@@ -7,7 +7,7 @@ This is not consistent, though.
 
 ## Steps to Reproduce
 
-1. execute an API test where i;s required t add a phone number (while adding a contact)
+1. execute an API test where it's required to add a phone number (while adding a contact)
 2. Create a new contact with the same phone number format, example: "'(800) 697-5856'"
 
 ## Expected Result
